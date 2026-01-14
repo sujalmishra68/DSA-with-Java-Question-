@@ -1,3 +1,4 @@
+package src.com.dsa.game;
 import java.util.Random;
 import java.util.Scanner;
 
