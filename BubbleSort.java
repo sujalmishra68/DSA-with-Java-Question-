@@ -21,7 +21,7 @@ public class BubbleSort {
                 }
             
         }
-        System.out.println();
+        System.out.println(  );
 
       System.out.println("After soting");
       for(int num : nums){
