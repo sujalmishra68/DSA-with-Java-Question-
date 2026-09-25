@@ -1,3 +1,4 @@
+// mini queiz on static and non-static variables
 class Test {
 
     static int x = 10;
